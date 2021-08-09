@@ -7,6 +7,7 @@ User can login to the website and update the profile by updating the profile pic
 
 ## Credentials to login:
 username: admin
+
 password: admin123
 
 
