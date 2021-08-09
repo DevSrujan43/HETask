@@ -1,3 +1,16 @@
+# Happily Ever Task!
+-------------------------
+## UserLogin and Profile web page
+----------------------------------------
+## Features:
+User can login to the website and update the profile by updating the profile picture and other details mentioned in the site and can logout which takes back to login page
+
+## Credentials to login:
+username: admin
+password: admin123
+
+
+-------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
